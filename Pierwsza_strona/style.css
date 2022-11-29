@@ -1,0 +1,99 @@
+body
+{
+	
+	background-color: #1c8ab3;
+	ont-family: 'Lato', sans-serif;
+}
+
+#kontener
+{
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 20px;
+	
+}
+#logo
+{
+	width:1000px;
+	height:250px;
+	color: black;
+	font-size: 30px;
+	
+}
+#top
+{
+	font-size:20px;
+	background-color: #346975;
+	padding:5px;
+	text-align:center;
+	width:990px;
+	height:60px;
+		
+}
+	
+#menu
+{
+	float: left;
+	color:white;
+	font-size: 18px;
+	text-align:center;
+	padding: 10px;
+	width:128px;
+	height:600px;
+	background-color:#1b95a7;
+	
+	
+}
+#news
+{
+	float:left;
+	font-size:17px;
+	color: white;
+	tex-align: center;
+	padding: 30px;
+	width: 760px;
+	height: 550px;
+	background-color:#346975;
+
+	
+}
+#ad
+{
+	float: right;
+	width:160px;
+	padding: 10px;
+	height:590px;
+	background-color:#1b95a7;
+	
+}
+#footer
+{
+	clear:both;
+	text-align:center;
+	color:white;
+	height: 60px;
+	background-color:#1b95a7;
+	font-size: 15px;
+	padding:10px;
+		
+	
+}
+
+.menu1
+{
+	border-bottom: 2px dotted #346a72;
+	min-height: 40px;
+	margin-up:10px;
+	margin-top:10px;
+	
+}
+
+.top1
+{
+	float:left;
+	color:white;
+	font-size: 20px;
+	padding:20px;
+	
+}
